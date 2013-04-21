@@ -371,6 +371,7 @@
 					"$(inherited)",
 					"\"$(SRCROOT)/libs\"",
 				);
+				ONLY_ACTIVE_ARCH = YES;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				WRAPPER_EXTENSION = app;
 			};
@@ -390,6 +391,7 @@
 					"$(inherited)",
 					"\"$(SRCROOT)/libs\"",
 				);
+				ONLY_ACTIVE_ARCH = YES;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				WRAPPER_EXTENSION = app;
 			};

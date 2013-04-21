@@ -87,4 +87,3 @@ t = { "data.caption.text",
 
 --* This is the call we make to request photos from Instagram.
 myInstagram = instagram.photos("tag", searchTerm, t, gotInstagram)
-
