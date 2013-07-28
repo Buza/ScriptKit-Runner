@@ -1,4 +1,3 @@
-
 --* This example performs a search on Instagram and displays the locations of the phtos on a map. Tap on a pin to display the associated photo.
 
 -- This is the search term. Feel free to change it!
@@ -87,3 +86,26 @@ t = { "data.caption.text",
 
 --* This is the call we make to request photos from Instagram.
 myInstagram = instagram.photos("tag", searchTerm, t, gotInstagram)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
